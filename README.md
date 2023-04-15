@@ -9,4 +9,4 @@ Simple HTML Instagram clone made with Bootstrap as a part of [Bootstrap](https:/
 ![md](assets/ss2.PNG)
 ![sm](assets/ss3.PNG)
 
-(AssignmentLink)[https://academy.patika.dev/courses/bootstrap/odev2]
+[AssignmentLink](https://academy.patika.dev/courses/bootstrap/odev2)
