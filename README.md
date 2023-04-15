@@ -3,7 +3,7 @@ Simple HTML Instagram clone made with Bootstrap as a part of [Bootstrap](https:/
 
 ## Interface
 
-- As you can see the layout change according to screen size.
+- As you can see the layout changes according to screen size.
 
 ![xl](assets/ss1.PNG)
 ![md](assets/ss2.PNG)
